@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmodPluginTemplate", "UmodPluginTemplate.csproj", "{931CAD04-E24B-4E55-BA26-BC00556D1853}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{931CAD04-E24B-4E55-BA26-BC00556D1853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931CAD04-E24B-4E55-BA26-BC00556D1853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931CAD04-E24B-4E55-BA26-BC00556D1853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931CAD04-E24B-4E55-BA26-BC00556D1853}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0227400A-9603-4B97-A69D-6C90007A4D3A}
+	EndGlobalSection
+EndGlobal

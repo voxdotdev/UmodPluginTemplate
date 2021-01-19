@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Oxide.Core">
+      <HintPath>B:\5XRust\RustDedicated_Data\Managed\Oxide.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Oxide.CSharp">
+      <HintPath>B:\5XRust\RustDedicated_Data\Managed\Oxide.CSharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
