@@ -13,7 +13,7 @@
             Puts("A baby plugin is born!");
         }
         
-        #endregion
+    #endregion
 
         // The rest of the code magic
 
